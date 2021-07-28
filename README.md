@@ -1,4 +1,4 @@
-### Hi I'm Sojeb 👋
+### Hi there, I'm Sojeb 👋
 
 
 - 🔭 I’m a full stack web and mobile application developer.
