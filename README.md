@@ -58,6 +58,10 @@
       <img alt="csharp" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
       <br>C#
     </td>
+        <td align="center">
+      <img alt="ubuntu" height=64px src="https://cdn.worldvectorlogo.com/logos/android-5.svg">
+      <br>Android
+    </td>
     <td align="center">
       <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
       <br>AWS
@@ -65,10 +69,6 @@
     <td align="center">
       <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
       <br/>Firebase
-    </td>
-    <td align="center">
-      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-      <br>PostgreSQL
     </td>
     <td align="center">
       <img alt="mongodb" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
@@ -109,7 +109,7 @@
       <br>Nginx
     </td>
     <td align="center">
-      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
+      <img alt="Ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png">
       <br>Ubuntu
     </td>
   </tr>
