@@ -59,7 +59,7 @@
       <br>C#
     </td>
         <td align="center">
-      <img alt="ubuntu" height=64px src="https://cdn.worldvectorlogo.com/logos/android-5.svg">
+      <img alt="ubuntu" height=64px src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
       <br>Android
     </td>
     <td align="center">
