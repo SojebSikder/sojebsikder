@@ -116,5 +116,6 @@
 </table>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=highcontrast&show_icons=true&count_private=true)
+<iframe width="600" height="600" src"https://ionicabizau.github.io/github-profile-languages/api.html?sojebsikder" frameborder="0"></iframe>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sojebsikder&layout=compact)<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder" alt="sojebsikder" />
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sojebsikder)
