@@ -114,7 +114,9 @@
     </td>
   </tr>
 </table>
+<p align="center">
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
+ </p>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sojebsikder&theme=algolia&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=sojebsikder&theme=algolia&layout=compact)
