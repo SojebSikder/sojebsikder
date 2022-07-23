@@ -9,7 +9,7 @@
 
 
 <p align="center">
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sojebsikder&theme=algolia&hide_border=true" alt="sojebsikder" />
  </p>
 
 
